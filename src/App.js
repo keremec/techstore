@@ -9,7 +9,6 @@ const App = () => {
       <View>
         <Text style={styles.header_text}>Techstore</Text>
       </View>
-
       <View style={styles.container}>
         <FlatList
           ListHeaderComponent={<View>
